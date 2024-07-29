@@ -16,14 +16,7 @@ const ImageList = [
   {
     id: 3,
     img: paneer,
-  },
-  {
-    id: 4,
-    img: item1,
-  }, {
-    id: 5,
-    img: item1,
-  },
+  }
   
 ];
 
